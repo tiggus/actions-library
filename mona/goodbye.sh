@@ -1,1 +1,1 @@
-echo wiz-scan
+echo version1.2
